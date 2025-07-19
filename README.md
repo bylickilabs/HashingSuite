@@ -1,5 +1,8 @@
 # 🔐 Hashing Suite (DE / EN)
 
+|<img width="1280" height="640" alt="hashingSuite" src="https://github.com/user-attachments/assets/22f65d20-eeaf-4294-98dc-dd60dad2b3bd" />|
+|---|
+
 ## 🇩🇪 Beschreibung
 
 **Die Hashing Suite** ist ein professionelles Werkzeug zum Berechnen kryptografischer Hashwerte für:
