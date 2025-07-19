@@ -25,7 +25,11 @@
 - GitHub-Link & Firmenlogo integriert
 - Responsive Layout & mobilfähig
 
+<br>
+
 ---
+
+<br>
 
 ## EN Description
 
@@ -49,7 +53,11 @@
 - GitHub link & company logo integrated
 - Responsive layout & mobile friendly
 
+<br>
+
 ---
+
+<br>
 
 - © 2025 BYLICKILABS | Developed by Thorsten Bylicki
 - [LICENSE](LICENSE)
